@@ -80,13 +80,13 @@
         "Allowoffline": true
     },
     {
-        "device_id": "11111111",
-        "key": "ramim",
+        "device_id": "3695b8adf3c40ded",
+        "key": "Piash",
         "expirydate": "04-03-2026",
         "Allowoffline": true
     },
-    {   "device_id": "1111111111",
-        "key": "shahed",
+    {   "device_id": "e9f2f868a2fc12e1",
+        "key": "Shahed",
         "expirydate": "04-03-2026",
         "Allowoffline": true
     } ,
@@ -96,14 +96,14 @@
         "expirydate": "04-03-2026",
         "Allowoffline": true
     },
-    {   "device_id": "1111111111",
-        "key": "ceo30",
-        "expirydate": "02-03-2026",
+    {   "device_id": "3515ba0859620b64",
+        "key": "Ramim",
+        "expirydate": "04-03-2026",
         "Allowoffline": true
     },
     {
-        "device_id": "1111111111",
-        "key": "naim",
+        "device_id": "97c1584d20b10c78",
+        "key": "Amin",
         "expirydate": "04-03-2026",
         "Allowoffline": true
     },
